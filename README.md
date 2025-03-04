@@ -20,6 +20,14 @@ We have prepared several repositories to guide you through setting up your envir
 - Repository: [bouncmpe230/github-starter-course](https://github.com/bouncmpe230/github-starter-course)
 - Description: A beginner-friendly introduction to Git and GitHub for version control and collaboration.
 
+### **Project Template**
+- Repository: [bouncmpe230/project-report-template](https://github.com/bouncmpe230/project-report-template)
+- Description: A structured LaTeX template for project reports,
+
+### C Documentation & Automation
+- Repository: [bouncmpe230/c-autodoc/](https://github.com/bouncmpe230/c-autodoc/)
+- Description: Demonstrates how to automate C code documentation using Doxygen and deploy it to GitHub Pages with GitHub Actions.
+
 ### **Objection Guideline**
 - Repository: [bouncmpe230/objection-guidelines](https://github.com/bouncmpe230/objection-guidelines)
 - Description: Guidelines for raising objections regarding grading coursework submissions.
