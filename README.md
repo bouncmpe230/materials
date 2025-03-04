@@ -22,7 +22,7 @@ We have prepared several repositories to guide you through setting up your envir
 
 ### **Project Template**
 - Repository: [bouncmpe230/project-report-template](https://github.com/bouncmpe230/project-report-template)
-- Description: A structured LaTeX template for project reports,
+- Description: A structured LaTeX template for project reports.
 
 ### C Documentation & Automation
 - Repository: [bouncmpe230/c-autodoc/](https://github.com/bouncmpe230/c-autodoc/)
