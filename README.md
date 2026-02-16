@@ -1,4 +1,4 @@
-# CMPE230: Systems Programming – Spring 2025
+# CMPE230: Systems Programming 
 
 Welcome to the **CMPE230 Systems Programming** course! To ensure a smooth learning experience, we provide a set of repositories and setup guides to help you prepare your environment and deepen your understanding of core systems programming concepts.
 
