@@ -15,10 +15,6 @@ We have prepared several repositories to guide you through setting up your envir
 - **Repository:** [bouncmpe230/docker-starter-course](https://github.com/bouncmpe230/docker-starter-course)  
 - **Description:** A hands-on introduction to Docker, helping you create reproducible environments for your development work.
 
-### **GitHub Classroom Starter Course**
-- **Repository:** [bouncmpe230/github-classroom-starter-course](https://github.com/bouncmpe230/github-classroom-starter-course)  
-- **Description:** A guide on how to use GitHub Classroom for coursework submissions and collaboration.
-
 ### **GitHub Starter Course**
 - **Repository:** [bouncmpe230/github-starter-course](https://github.com/bouncmpe230/github-starter-course)  
 - **Description:** A beginner-friendly introduction to Git and GitHub for version control and collaboration.
@@ -40,7 +36,7 @@ These repositories cover foundational and advanced programming topics relevant t
 - **Repository:** [bouncmpe230/c-advanced-concepts](https://github.com/bouncmpe230/c-advanced-concepts)  
 - **Description:** Explores advanced C topics such as dynamic memory management, file I/O, bit manipulation, and data structures.
 
-## **GNU Assembly**
+### **GNU Assembly**
 - **Repository:** [bouncmpe230/gnu-assembly-examples](https://github.com/bouncmpe230/gnu-assembly-examples)
 - **Description:** Introduces x86-64 assembly on Linux with the GNU assembler (AT&T syntax), covering system calls, loops and string processing, functions and the calling convention, recursion, arrays, bit manipulation, file I/O, and interfacing with C.
 
